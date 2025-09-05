@@ -2,8 +2,10 @@
 This repository contains Python code implementing an agent-based model (ABM) to simulate malaria dynamics in Quibdó, Colombia, as described in the corresponding scientific article. Two main scripts are provided to run the simulations with or without animation.
 
 # Repository Structure
-- FINAL1.py: Runs the full agent-based simulation with animation, visualizing agent interactions and disease spread dynamics in real-time.
-- FINAL2.py: Runs the simulation without animation, optimized for batch runs or longer simulations where visualization is not needed.
+- src/malariaABM.c: Core C file for the agent-based malaria simulation.
+- bin/: Compiled executables (.exe, .o) for quick use.
+- results/: .txt files containing outputs from individual simulation runs.
+- matlab/: MATLAB scripts to generate graphs and analyze simulation outputs.
 
 # Reproducibility and Extension
 - Both scripts share core model components to ensure consistent results.
