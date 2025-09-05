@@ -13,7 +13,7 @@ This repository contains Python code implementing an agent-based model (ABM) to 
 # Citation
 Please cite the related manuscript if you use or adapt this code:
 
-[Manuscript Title], [Journal Name], [Year], [Authors].
+Stochastic Agent-Based Modeling of Malaria Dynamics in Quibdó, Colombia, Journal of Physic: Conference Series, 2025, ORCID.
 
 # Contact
 Contact details of authors are available in the manuscript for inquiries.
